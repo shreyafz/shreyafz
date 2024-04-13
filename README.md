@@ -6,9 +6,7 @@
 - 👯 I’m looking to collaborate on **Projects based on Web Designing**
 
 - 📫 How to reach me **shreyafz144@gmail.com**
-
-
-   ![edfc7a895125803dea238a73d3e63b44](https://github.com/shreyafz/shreyafz/assets/146700826/826c3443-f0bc-4dd1-988d-3f710f4709c7)
+![mochi-peach](https://github.com/shreyafz/shreyafz/assets/146700826/2b3cb386-05d0-417f-93ee-470e3b6eedfe)
 
 
 <h3 align="left">Connect with me:</h3>

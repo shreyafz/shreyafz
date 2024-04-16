@@ -13,7 +13,7 @@
 
 ## ➿Connect with me:
 <a href="https://instagram.com/s_shreya_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_shreya_144" height="30" width="40" /></a>s_shreya_144
-</p><a href="https://linkedin.com/in/shreya sangem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya sangem" height="30" width="40" /></a>www.linkedin.com/in/shreyafz144--
+</p><a href="https://linkedin.com/in/shreya sangem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya sangem" height="30" width="40" /></a>www.linkedin.com/in/shreyafz144-
 
 
 ## 🐛Languages & Tools: Actively Learning & Building..
